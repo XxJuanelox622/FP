@@ -1,5 +1,5 @@
 Realiza un programa para calcular el área sombreada roja de la siguiente figura, ingresando solo el radio del círculo y la hipotenusa del triángulo. Considera el valor de π como 3.1416.
-
+"Hola"
 Algoritmo area_sombreada 
 	escribir "ingrese el Radio del circulo: " 
 	leer R1 
